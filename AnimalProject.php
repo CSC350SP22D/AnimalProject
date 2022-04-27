@@ -11,6 +11,6 @@ $sql =
 		if($result)
 			echo "ANIMAL INSERTED";
 		else
-			echo "ANIMAL NOT INSERTED";
-
+			echo "ANIMAL DID NOT GET INSERTED";
+/* */
 ?>
